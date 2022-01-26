@@ -1,0 +1,6 @@
+code: pencil-form-widget
+titles:
+  en: Pencil Form Widget
+  it: Pencil Form Widget
+group: free
+customUiPath: pencil-form-widget.ftl

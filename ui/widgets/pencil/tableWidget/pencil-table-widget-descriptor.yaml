@@ -1,0 +1,6 @@
+code: pencil-table-widget
+titles:
+  en: Pencil Table Widget
+  it: Pencil Table Widget
+group: free
+customUiPath: pencil-table-widget.ftl
