@@ -1,0 +1,7 @@
+image: excess17/2789-win:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "2789win-admin"
+  - "pencil-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

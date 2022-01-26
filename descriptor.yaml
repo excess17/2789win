@@ -1,0 +1,13 @@
+code: 2789win
+description: This is the 2789win bundle
+
+components:
+  plugins:
+    - plugins/2789win-plugin.yaml
+
+  widgets:
+    - ui/widgets/pencil/tableWidget/pencil-table-widget-descriptor.yaml
+    - ui/widgets/pencil/detailsWidget/pencil-details-widget-descriptor.yaml
+    - ui/widgets/pencil/formWidget/pencil-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
